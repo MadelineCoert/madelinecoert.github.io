@@ -1,5 +1,5 @@
 # madelinecoert.github.io
-# Madeline Coert – Data Analyst
+# Madeline Coert – Junior Data Analyst
 
 Welcome to my data analytics portfolio. I am a Brisbane-based aspiring data analyst with a strong interest in turning raw data into actionable insights. My work focuses on applied statistical analysis, effective data visualisation and clear communication of results. I primarily use R, Python and SQL to explore real-world datasets and develop practical business recommendations.
 
