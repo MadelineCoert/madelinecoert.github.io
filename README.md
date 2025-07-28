@@ -24,12 +24,12 @@ Proficiency in:
 ### GameLab Engagement Analysis  
 Explored user behaviour and engagement patterns in a simulated gaming platform to identify trends, key drivers of retention and potential design improvements.  
 **Tools used:** R, dplyr, ggplot2  
-[View Project](https://github.com/MadelineCoert/GameLab-Engagement-Analysis)
+[View Project](https://github.com/MadelineCoert/GameLab-EDA)
 
 ### Restaurant Risk Prediction  
 Developed a model to predict underperforming restaurants using regression techniques and time series decomposition. Provided recommendations for early intervention strategies based on performance indicators.  
 **Tools used:** R, logistic regression, AUC/ROC analysis, seasonal decomposition  
-[View Project](https://github.com/MadelineCoert/Restaurant-Performance-EDA)
+[View Project](https://github.com/MadelineCoert/Restaurant-Risk-Analysis)
 
 ---
 
