@@ -9,7 +9,7 @@ Welcome to my data analytics portfolio. I am a Brisbane-based aspiring data anal
 
 I hold a Bachelor of Business (Marketing) and am currently completing further study at the University of Queensland, focusing on data analytics. My academic and project experience has equipped me with practical skills in data wrangling, exploratory data analysis, regression modelling and time series forecasting. I am particularly interested in the role of data in supporting business decisions and improving operational performance.
 
-Tools and languages I use regularly include:
+Proficiency in:
 - R (tidyverse, ggplot2, forecast, caret)
 - Python (pandas, matplotlib, seaborn)
 - SQL
@@ -46,6 +46,7 @@ Developed a model to predict underperforming restaurants using regression techni
 
 madelinecoert@gmail.com 
 [LinkedIn](www.linkedin.com/in/madeline-coert-546667309)
+
 Resume available upon request
 
 ---
